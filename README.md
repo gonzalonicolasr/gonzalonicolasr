@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzalonicolasr&label=Profile%20views&color=0e75b6&style=flat" alt="gonzalonicolasr" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzalonicolasr" alt="gonzalonicolasr" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/gonzalonrocca" target="blank"><img src="https://img.shields.io/twitter/follow/gonzalonrocca?logo=twitter&style=for-the-badge" alt="gonzalonrocca" /></a> </p>
 
 - 🔭 I’m currently working on [Artware Solution & MDQservers](www.mdqservers.net)
@@ -10,8 +12,6 @@
 - 🌱 I’m currently learning **Fullstack developer in nucba.com**
 
 - 👯 I’m looking to collaborate on **www.mdqservers.net**
-
-- 👨‍💻 All of my projects are available at [Repo](https://github.com/gonzalonicolasr?tab=repositories)
 
 - 💬 Ask me about **vuejs, Spring boot, nodeJs**
 
@@ -34,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalonicolasr&show_icons=true&locale=en&layout=compact" alt="gonzalonicolasr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzalonicolasr&show_icons=true&locale=en" alt="gonzalonicolasr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzalonicolasr&" alt="gonzalonicolasr" /></p>
