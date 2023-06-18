@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gonzalonrocca" target="blank"><img src="https://img.shields.io/twitter/follow/gonzalonrocca?logo=twitter&style=for-the-badge" alt="gonzalonrocca" /></a> </p>
 
-- 🔭 I’m currently working on [Artware Solution & MDQservers](www.mdqservers.net)
+- 🔭 I’m currently working on [Mercadolibre & MDQservers](www.mdqservers.net)
 
 - 🌱 I’m currently learning **Fullstack developer in nucba.com**
 
