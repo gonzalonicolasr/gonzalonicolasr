@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Mercadolibre & MDQservers](www.mdqservers.net)
 
-- 🌱 I’m currently learning **Fullstack developer in nucba.com**
+- 🌱 I’m currently learning **Fullstack developer in digitalhouse.com**
 
 - 👯 I’m looking to collaborate on **www.mdqservers.net**
 
