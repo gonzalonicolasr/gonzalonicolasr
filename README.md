@@ -1,55 +1,39 @@
 # Gonzalo Rocca
 
-**Sr. Software Engineer from Argentina building multi-agent AI systems, local-first tooling, and orchestration platforms.**
+**Sr. Software Engineer from Argentina building the CeroClawd ecosystem: AI teams, multi-agent tooling, persistent memory, and local-first developer workflows.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gonnicolas-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/gonnicolas)
-[![Website](https://img.shields.io/badge/Web-cli.ceroclawd.com-111111?style=flat-square&logo=googlechrome)](https://cli.ceroclawd.com)
-[![npm](https://img.shields.io/badge/npm-ceroclawd-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/ceroclawd)
+[![Web](https://img.shields.io/badge/Web-ceroclawd.com-111111?style=flat-square&logo=googlechrome)](https://ceroclawd.com)
+[![CLI](https://img.shields.io/badge/CLI-ceroclawd-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/ceroclawd)
 
-> I build systems where specialized AI agents collaborate under human direction. Each agent has a role, a model, and a scope. I design the orchestration layer that makes the whole system useful.
+> I build products where specialized AI agents collaborate under human direction. My focus is orchestration, execution, memory, and developer UX across CLI, web, and desktop surfaces.
 
-## What I am building
+## Building the CeroClawd ecosystem
 
-### CeroClawd
-Open-source CLI for developers who want agent orchestration from the terminal with local models through Ollama.
+- **CeroClawd CLI** - Open-source CLI for running multi-agent workflows locally with tool calling, terminal execution, and local models through Ollama. Public repo: [gonzalonicolasr/ceroclawd](https://github.com/gonzalonicolasr/ceroclawd). Site: [cli.ceroclawd.com](https://cli.ceroclawd.com)
+- **ceroclawd.com** - Web platform for freelancers to create AI teams, assign projects, watch execution, and manage client work from the browser. Built with Next.js 15, React 19, Tailwind 4, and SQLite.
+- **OfficeClaw** - Visual operations dashboard for watching agent activity in real time: office view, logs, chat panel, and workflow visibility for the whole team.
+- **CeroSpace** - Desktop workspace for local agent execution with multi-terminal layout, Swarm Canvas, and a local server built on `node-pty`, WebSocket, and Express.
+- **Memoria + Cortex** - Persistent memory layer for coding agents, with SQLite storage, MCP tooling, project context, and shared memory across workspaces.
+- **CeroClaw Serve** - Internal execution engine that runs the CLI in serve mode and streams agent activity over HTTP + SSE to the web platform.
+- **Cortex Video** - Remotion-based video pipeline for product demos and launch assets around the CeroClawd ecosystem.
 
-- Local-first workflow with no API keys, no subscriptions, and no token billing
-- Specialist agents for backend, frontend, QA, and other execution roles
-- Built for developers who want real tool calling, not chat-only demos
-- Repo: [gonzalonicolasr/ceroclawd](https://github.com/gonzalonicolasr/ceroclawd)
-- Site: [cli.ceroclawd.com](https://cli.ceroclawd.com)
-- Install: `npm install -g ceroclawd`
+## What this stack is optimized for
 
-### OfficeClawd
-A virtual office where AI agents work as a coordinated team from a custom Next.js dashboard.
+- Multi-agent orchestration for real software execution, not just prompt chaining
+- Local-first workflows where the code and data stay under the user's control
+- Persistent memory and reusable context for long-running agent teams
+- Browser, desktop, and terminal interfaces over the same execution model
+- Deliverables that look like real engineering output: repos, tests, docs, deploy-ready work
 
-- Lead, frontend, backend, QA, content, and scheduler agents working together
-- Real-time activity logs and operational visibility across the workflow
-- Shared publicly on LinkedIn, reaching 150k+ impressions
-- Live demo: [officeclaw.projectathenas.us](https://officeclaw.projectathenas.us)
+## Core stack
 
-### OpenClaw
-The orchestration layer behind OfficeClawd.
-
-- Agent-to-agent communication and delegated execution
-- Task routing based on role and model fit
-- Human-in-the-loop control over the whole system
-
-## What this means in practice
-
-- Multi-agent orchestration for real software work, not just prompt chaining
-- Tool calling, delegation, escalation, and model routing
-- Local inference and cost-aware workflows with Ollama and open models
-- Developer tooling focused on execution speed and lower coordination overhead
-
-## Stack
-
-- AI systems: multi-agent orchestration, tool calling, local inference, model routing
+- AI systems: orchestration, delegation, tool calling, SSE streaming, MCP
 - Models: Ollama, Qwen, DeepSeek, Claude, GPT
+- Web: Next.js, React, Tailwind, Framer Motion
 - Backend: TypeScript, Node.js, Express, REST APIs, WebSockets
-- Frontend: Next.js, React
 - Data: SQLite, PostgreSQL
-- Infra: Linux, VPS, Caddy, pm2, Discord bots
+- Infra: Linux, VPS, Caddy, pm2, Docker
 
 ## Experience
 
@@ -59,6 +43,6 @@ The orchestration layer behind OfficeClawd.
 ## Contact
 
 - LinkedIn: [linkedin.com/in/gonnicolas](https://linkedin.com/in/gonnicolas)
-- npm: [npmjs.com/package/ceroclawd](https://www.npmjs.com/package/ceroclawd)
-- Web: [cli.ceroclawd.com](https://cli.ceroclawd.com)
+- Web: [ceroclawd.com](https://ceroclawd.com)
+- CLI: [npmjs.com/package/ceroclawd](https://www.npmjs.com/package/ceroclawd)
 - Email: `gonn.nicolas@gmail.com`
