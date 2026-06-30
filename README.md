@@ -24,10 +24,11 @@ Things I build in the open. The **zero** spec-driven pipeline and the **CeroClaw
 
 <div align="center">
 
-[![zero-pi](https://github-readme-stats.vercel.app/api/pin/?username=gonzalonicolasr&repo=zero-pi&title_color=ff7c5c&icon_color=ffd682&text_color=c9b8a8&bg_color=1a1320&border_color=8e3b9e)](https://github.com/gonzalonicolasr/zero-pi)
-[![ceroclawd](https://github-readme-stats.vercel.app/api/pin/?username=gonzalonicolasr&repo=ceroclawd&title_color=ff7c5c&icon_color=ffd682&text_color=c9b8a8&bg_color=1a1320&border_color=8e3b9e)](https://github.com/gonzalonicolasr/ceroclawd)
-[![zero](https://github-readme-stats.vercel.app/api/pin/?username=gonzalonicolasr&repo=zero&title_color=ff7c5c&icon_color=ffd682&text_color=c9b8a8&bg_color=1a1320&border_color=8e3b9e)](https://github.com/gonzalonicolasr/zero)
-[![looply-tui](https://github-readme-stats.vercel.app/api/pin/?username=gonzalonicolasr&repo=looply-tui&title_color=ff7c5c&icon_color=ffd682&text_color=c9b8a8&bg_color=1a1320&border_color=8e3b9e)](https://github.com/gonzalonicolasr/looply-tui)
+[![zero-pi](https://img.shields.io/github/stars/gonzalonicolasr/zero-pi?style=for-the-badge&logo=github&label=zero-pi&color=ff7c5c&labelColor=1a1320)](https://github.com/gonzalonicolasr/zero-pi)
+[![ceroclawd](https://img.shields.io/github/stars/gonzalonicolasr/ceroclawd?style=for-the-badge&logo=github&label=ceroclawd&color=d64a8c&labelColor=1a1320)](https://github.com/gonzalonicolasr/ceroclawd)
+[![zero](https://img.shields.io/github/stars/gonzalonicolasr/zero?style=for-the-badge&logo=github&label=zero&color=8e3b9e&labelColor=1a1320)](https://github.com/gonzalonicolasr/zero)
+[![looply-tui](https://img.shields.io/github/stars/gonzalonicolasr/looply-tui?style=for-the-badge&logo=github&label=looply-tui&color=ffa863&labelColor=1a1320)](https://github.com/gonzalonicolasr/looply-tui)
+[![skillautoforge-pi](https://img.shields.io/github/stars/gonzalonicolasr/skillautoforge-pi?style=for-the-badge&logo=github&label=skillautoforge-pi&color=ffd682&labelColor=1a1320)](https://github.com/gonzalonicolasr/skillautoforge-pi)
 
 </div>
 
@@ -95,8 +96,12 @@ A connected set of products for running AI agent teams — from the browser, the
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gonzalonicolasr&show_icons=true&title_color=ff7c5c&icon_color=ffd682&text_color=c9b8a8&bg_color=1a1320&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalonicolasr&layout=compact&title_color=ff7c5c&text_color=c9b8a8&bg_color=1a1320&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gonzalonicolasr&bg_color=1a1320&color=ffd682&line=ff7c5c&point=d64a8c&area=true&hide_border=true&custom_title=Contribution%20graph" alt="Activity graph" width="95%" />
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzalonicolasr&theme=2077)
+
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gonzalonicolasr&theme=2077)
+![Most-used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzalonicolasr&theme=2077)
 
 ![Streak](https://streak-stats.demolab.com/?user=gonzalonicolasr&background=1a1320&border=8e3b9e&stroke=ff7c5c&ring=d64a8c&fire=ffd682&currStreakLabel=ff7c5c&sideLabels=c9b8a8&dates=8a7a6a&sideNums=c9b8a8&currStreakNum=ffd682)
 
